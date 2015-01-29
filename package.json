@@ -1,0 +1,12 @@
+{
+  "name": "generators",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gnode": "^0.1.1",
+    "suspend": "^0.6.1"
+  },
+  "author": "Morten Maxild",
+  "license": "ISC"
+}
