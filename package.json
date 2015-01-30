@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
+    "bluebird": "^2.9.3",
+    "co": "^4.1.0",
     "gnode": "^0.1.1",
+    "q": "^1.1.2",
     "suspend": "^0.6.1"
   },
   "author": "Morten Maxild",

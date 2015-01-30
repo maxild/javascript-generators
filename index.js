@@ -41,5 +41,8 @@ var generators = require('./lib/index.js');
 // var usingSuspend = require('./lib/usingSuspend.js');
 // usingSuspend();
 
-var usingRun = require('./lib/usingRun.js');
-usingRun();
+// var usingRun = require('./lib/usingRun.js');
+// usingRun();
+
+var usingCo = require('./lib/usingCo.js');
+usingCo();
